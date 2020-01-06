@@ -7,3 +7,8 @@ __pycache__/
 *.so
 *.o
 .idea/
+data/modelnet/
+data/data_*/
+logs
+.vscode
+.ipynb_checkpoints
